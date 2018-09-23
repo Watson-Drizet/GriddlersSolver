@@ -1,3 +1,3 @@
-public enum BlockStatus {
+public enum Block {
     FULL, EMPTY, UNKNOWN
 }
